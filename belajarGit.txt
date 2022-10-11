@@ -1,0 +1,2 @@
+Git adalah VCS (Vision Control System) yang berguna untuk mencatat dan merekam setiap aktivitas pengkodean (History).
+GitHub dapat dikolaborasikan bersama Git untuk pengkodean yang lebih optimal
